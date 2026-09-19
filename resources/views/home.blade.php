@@ -31,7 +31,6 @@
     </div>
 
     <header class="header">
-        <a href="#" class="logo"><span>{ }</span></a>
 
         <ul class="nav-links">
             <li>
@@ -62,7 +61,7 @@
 
     <section id="about" class="about scroll-animate">
         <div class="about-container">
-            <img src="image/Profile first.jpg" alt="">
+            <img src="image/Profile first.png" alt="">
 
             <div class="info-box">
 
@@ -78,7 +77,6 @@
                 </div>
 
                 <div class="socials">
-                    <a class="fa-brands fa-facebook" href="https://www.facebook.com/share/152k5LGDE7/"></a>
                     <a class="fa-brands fa-instagram" href="https://www.instagram.com/hyahyaaa01?igsh=Znkzb21jeGJvaDk3"></a>
                     <a class="fa-brands fa-github" href="https://github.com/hyahyaaa01"></a>
                 </div>
