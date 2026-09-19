@@ -61,7 +61,7 @@
 
     <section id="about" class="about scroll-animate">
         <div class="about-container">
-            <img src="image/Profile first.png" alt="">
+            <img src="image/Profile First.png" alt="">
 
             <div class="info-box">
 
